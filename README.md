@@ -1,5 +1,6 @@
 Meri-Awaaz-News-Portal 🚀
-📢 Overview
+
+# 📢 Overview
 
 Meri Awaaz is a next-generation news and media platform inspired by the experience of platforms like Instagram + YouTube, combining short videos, news sharing, social interaction, moderation, and AI-powered security monitoring.
 
