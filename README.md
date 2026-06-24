@@ -7,40 +7,65 @@ Meri Awaaz is a next-generation news and media platform inspired by the experien
 The platform supports multiple user roles including:
 
 👤 Guest Users
+
 🧑 Registered Users
+
 🛡️ Moderators
+
 👑 Super Admin
+
 
 It provides real-time notifications, secure content management, scalable video processing, and advanced moderation workflows.
 
 ✨ Key Features
+
 🎥 Video & Media System
-Instagram/Reels + YouTube-style video experience
+
+Instagram/Reels + YouTube-style video experience+linkedin profile  view feature
+
 Like / Dislike videos
+
 Follow / Unfollow creators
+
 Video reporting system
+
 Chunk-based video streaming for faster playback
+
 Reduced buffering using optimized video delivery
+
 Telegram-based storage system
+
 Telegram bots used as background workers for video processing and fetching
+
 🔔 Real-Time Notification System
+
 
 Users receive real-time updates for:
 
+
 Profile views
+
 New followers
+
 Video interactions
+
 Reports and moderation actions
+
 Account activities
 
-Example:
+
+#Example:
+
 
 When someone views your profile, you receive a notification:
 "User X viewed your profile"
 
-👥 User Privacy System
+
+#👥 User Privacy System
+
 
 Privacy-focused profile management:
+
 
 Guest users cannot view user profiles
 Only authenticated users can access profiles
